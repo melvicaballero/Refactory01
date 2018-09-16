@@ -1,4 +1,4 @@
-package movies;
+package com.jala;
 
 class Rental {
     private Movie _movie;

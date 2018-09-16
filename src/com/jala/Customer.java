@@ -1,4 +1,4 @@
-package movies;
+package com.jala;
 
 import java.util.Enumeration;
 import java.util.Vector;

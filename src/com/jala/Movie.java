@@ -1,4 +1,4 @@
-package movies;
+package com.jala;
 
 public class Movie {
     public static final int CHILDRENS = 2;
